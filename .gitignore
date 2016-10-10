@@ -1,0 +1,51 @@
+# Template From:
+# https://github.com/github/gitignore/blob/master/C%2B%2B.gitignore
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Visual Studio specific stuff
+*.db
+*.opendb
+*.log
+*.pdb
+*.tlog
+*.lastbuildstate
+*.idb
+*.suo
+*.pyc
+*.exp
+*.ilk
+*.psess
+*.vspx
+*.enc
